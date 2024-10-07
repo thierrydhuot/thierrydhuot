@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Thierry Duc Huot
-## 🎓 I'm a student at Western University Specializing in Computer Science and Minoring in Astronomy
+## 🎓 I'm a student at Western University 
+## 📡 Specializing in Computer Science and Minoring in Astronomy
 
 - 📲 I'm currently learning React JS and diving into the world of Linux!
 - 🎯 2024 Goals: Dive deeper into cyber-security through project-based learning!
