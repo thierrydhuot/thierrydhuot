@@ -2,7 +2,7 @@
 ## 🎓 I'm a student at Western University Specializing in Computer Science and Minoring in Astronomy
 
 - 📲 I'm currently learning React JS and diving into the world of Linux!
-- 🎯 2025 Goals: Dive deeper into cyber-security through project-based learning!
+- 🎯 2026 Goals: Dive deeper into cyber-security through project-based learning!
 - ⚡ Check out some of my other [work][repos]!
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/thierry-duc-huot-33b1b62ab/) or thierrydhuot@gmail.com
 
